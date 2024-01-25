@@ -1,9 +1,10 @@
+import { createBrowserRouter } from "react-router-dom";
+import Body from "./components/Body";
 
 function App() {
+
   return (
-    <div className="text-3xl font-bold text-red-600">
-         hello
-    </div>
+     <Body/ >
   );
 }
 
