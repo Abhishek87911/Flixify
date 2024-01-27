@@ -32,6 +32,10 @@
  - TMDB Image CDN URL
  - useNowPlayingMovies,usePopularMovies
  useUpcomingMovies,useTopRatedMovies custom hooks
+ - GPT search Feature
+ - GPT Search Bar
+ - Added a Multi language Feature in our AOO
+ - Integrate GPT APIS
  
 
 
