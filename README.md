@@ -26,6 +26,12 @@
  - Fetch data for trailer video
  - Update store with trailer video data
  - Embeded youtube video and make it autoplay and mute
+ - Build secondary component
+ - Build movielist
+ - Build movie Card
+ - TMDB Image CDN URL
+ - useNowPlayingMovies,usePopularMovies
+ useUpcomingMovies,useTopRatedMovies custom hooks
  
 
 
