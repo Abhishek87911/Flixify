@@ -35,7 +35,15 @@
  - GPT search Feature
  - GPT Search Bar
  - Added a Multi language Feature in our AOO
- - Integrate GPT APIS
+ - Integrate GPT API
+ - Get OpenAI API key
+ - GPT Search Api call
+ - Fetch GPT movie suggestions from TMDB
+ - Create GPT Slice added data there
+ - Reuse Movielist component to make movie suggestion conatiner
+ - Memoization
+ - Adding .env file to gitinore
+ - Made our site Responsive
  
 
 
